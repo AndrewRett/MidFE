@@ -16,7 +16,7 @@ const About = () => {
                     growth and a chance to make a positive contribution to the world of technology.</p>
                 </div>
                 <div className="col-6 col-12-medium imp-medium">
-                <span className="image fit"><img src="/public/images/Andrew.jpg" alt /></span>
+                <span className="image fit"><img src="https://github.com/AndrewRett/MidFE/blob/master/public/images/Andrew.jpg" alt /></span>
                 </div>
             </div>
             </div>
